@@ -8,7 +8,7 @@ For the ease of devlopment and learning , currently we are using *Ropsten Test N
 
 ## Tech Stack
 
-**Client:** React, Tailwind CSS , Material UI, Ethers, Web 3.0 , Hardhat
+**Client:** React, Tailwind CSS , Material UI, Solidity, Ethers, Web 3.0 , Hardhat
 
 **Server:** Node, Express  
 
